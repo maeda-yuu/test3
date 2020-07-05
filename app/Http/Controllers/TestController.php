@@ -33,7 +33,7 @@ class TestController extends Controller
     public function index(){
 
         $book = new BookSearch();
-
+//
         //削除用
         $data=$book::find(9);
         $data->delete();
