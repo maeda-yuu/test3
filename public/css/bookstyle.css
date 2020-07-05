@@ -1,0 +1,327 @@
+.book-header{
+  position:fixed;
+  top:0;
+  left:0;
+  width:100%;
+  height:35px;
+  padding:25px;
+  background-color:pink;
+  text-align:center;
+  font-weight:bold;
+  font-size:150%;
+}
+
+.midashi{
+  position:fixed;
+  top:0;
+  left:45%;
+}
+
+.title1{
+  position:fixed;
+  top:150px;
+  left:0;
+  width:500px;
+  padding:20px;
+  background-color:blue;
+  font-weight:bold;
+}
+
+.search{
+  position:fixed;
+  top:220px;
+  left:0;
+  width:500px;
+  height:35px;
+  padding:20px;
+  font-weight:bold;
+}
+
+.search1{
+  position:fixed;
+  top:240px;
+  left:150px;
+}
+
+.attention1{
+  position:fixed;
+  top:240px;
+  left:430px;
+  color: #ff0000;
+}
+
+.search2{
+  position:fixed;
+  top:275px;
+  left:150px;
+}
+
+.search3{
+  position:fixed;
+  top:310px;
+  left:150px;
+}
+
+.search4{
+  position:fixed;
+  top:345px;
+  left:150px;
+}
+
+.search5{
+  position:fixed;
+  top:380px;
+  left:150px;
+}
+
+.search6{
+  position:fixed;
+  top:415px;
+  left:150px;
+}
+
+.searchProject1{
+  font-size:120%;
+}
+
+.searchProject3{
+  position:fixed;
+  top:312px;
+  left:20px;
+}
+
+.searchProject4{
+  position:fixed;
+  top:350px;
+  left:20px;
+}
+
+.searchProject5{
+  position:fixed;
+  top:382px;
+  left:20px;
+}
+
+.searchProject6{
+  position:fixed;
+  top:415px;
+  left:20px;
+}
+
+.bottom1{
+  position:fixed;
+  top:450px;
+  left:335px;
+  font-size:110%;
+  font-weight:bold;
+}
+
+.title2{
+  position:fixed;
+  top:150px;
+  left:550px;
+  width:500px;
+  padding:20px;
+  background-color:red;
+  font-weight:bold;
+}
+
+.insert{
+  position:fixed;
+  top:220px;
+  left:550px;
+  width:500px;
+  height:35px;
+  padding:20px;
+  font-weight:bold;
+}
+
+.insert1{
+  position:fixed;
+  top:240px;
+  left:700px;
+}
+
+.attention2{
+  position:fixed;
+  top:240px;
+  left:980px;
+  color: #ff0000;
+}
+
+.insert2{
+  position:fixed;
+  top:275px;
+  left:700px;
+}
+
+.insert3{
+  position:fixed;
+  top:310px;
+  left:700px;
+}
+
+.insert4{
+  position:fixed;
+  top:345px;
+  left:700px;
+}
+
+.insert5{
+  position:fixed;
+  top:380px;
+  left:700px;
+}
+
+.insert6{
+  position:fixed;
+  top:415px;
+  left:700px;
+}
+
+.insertProject1{
+  font-size:120%;
+}
+
+.insertProject3{
+  position:fixed;
+  top:312px;
+  left:570px;
+}
+
+.insertProject4{
+  position:fixed;
+  top:350px;
+  left:570px;
+}
+
+.insertProject5{
+  position:fixed;
+  top:382px;
+  left:570px;
+}
+
+.insertProject6{
+  position:fixed;
+  top:415px;
+  left:570px;
+}
+
+.bottom2{
+  position:fixed;
+  top:450px;
+  left:885px;
+  font-size:110%;
+  font-weight:bold;
+}
+
+
+.title3{
+  position:fixed;
+  top:150px;
+  left:1100px;
+  width:500px;
+  padding:20px;
+  background-color:green;
+  font-weight:bold;
+}
+
+.delete{
+  position:fixed;
+  top:220px;
+  left:1100px;
+  width:500px;
+  height:35px;
+  padding:20px;
+  font-weight:bold;
+}
+
+.delete1{
+  position:fixed;
+  top:240px;
+  left:1250px;
+}
+
+.attention3{
+  position:fixed;
+  top:240px;
+  left:1520px;
+  color: #ff0000;
+}
+
+.delete2{
+  position:fixed;
+  top:275px;
+  left:1250px;
+}
+
+.delete3{
+  position:fixed;
+  top:310px;
+  left:1250px;
+}
+
+.delete4{
+  position:fixed;
+  top:345px;
+  left:1250px;
+}
+
+.delete5{
+  position:fixed;
+  top:380px;
+  left:1250px;
+}
+
+.delete6{
+  position:fixed;
+  top:415px;
+  left:1250px;
+}
+
+.deleteProject1{
+  font-size:120%;
+}
+
+.deleteProject3{
+  position:fixed;
+  top:312px;
+  left:1120px;
+}
+
+.deleteProject4{
+  position:fixed;
+  top:350px;
+  left:1120px;
+}
+
+.deleteProject5{
+  position:fixed;
+  top:382px;
+  left:1120px;
+}
+
+.deleteProject6{
+  position:fixed;
+  top:415px;
+  left:1120px;
+}
+
+.bottom3{
+  position:fixed;
+  top:450px;
+  left:1435px;
+  font-size:110%;
+  font-weight:bold;
+}
+
+.book-footer{
+	position:fixed;
+	bottom:0;
+	left:0;
+	width:100%;
+	height:35px;
+	padding:20px;
+	background-color:#fff;
+	text-align:left;
+}
